@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/arioledieujuste
+[linkedin]: https://linkedin.com/in/arioledieujuste
