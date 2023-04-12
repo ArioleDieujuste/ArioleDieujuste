@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Steps of Installing osTicket (Help Desk Ticketing System) using Microsoft Azure </b>
+- <b>Installing osTicket using Microsoft Azure </b>
   - [osTicket: Prerequisites and Installation](https://github.com/ArioleDieujuste/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ArioleDieujuste/osTicket---Post-Install-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ArioleDieujuste/osTicket-Ticket-Lifecycle-Examples)
